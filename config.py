@@ -16,3 +16,4 @@ class Config:
     API_HASH = os.environ.get("API_HASH", "")
     BOT_TOKEN = os.environ.get("BOT_TOKEN", "") 
     HELL_SESSION = os.environ.get("HELL_SESSION", "")
+H
